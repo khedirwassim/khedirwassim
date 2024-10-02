@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/khedirwassim">
+    <a href="https://www.linkedin.com/in/khedirwassim"> 
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="linkedin logo" />
     </a>
     <a href="https://twitter.com/khedirwassim">
