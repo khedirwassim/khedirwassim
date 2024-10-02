@@ -5,16 +5,16 @@
 ###
 
 <div align="center">
-    <a href="https://www.linkedin.com/your-linkedin">
+    <a href="https://www.linkedin.com/in/khedirwassim">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="linkedin logo" />
     </a>
-    <a href="https://twitter.com/your-twitter">
+    <a href="https://twitter.com/khedirwassim">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30" alt="twitter logo" />
     </a>
-    <a href="https://www.youtube.com/your-youtube">
+    <a href="https://www.youtube.com/c/khedirwassim">
         <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30" alt="youtube logo" />
     </a>
-    <a href="mailto:your.email@example.com">
+    <a href="mailto:khedirwassim@example.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="email logo" />
     </a>
 </div>
@@ -22,12 +22,12 @@
 ###
 
 <div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername" alt="visitor badge" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=khedirwassim.khedirwassim" alt="visitor badge" />
 </div>
 
 ###
 
-<h1 align="center">Hello, World! 👋</h1>
+<h1 align="center">HellO, WorlD! 👋</h1>
 
 ###
 
@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm a passionate developer from [Your Country] 💻<br><br>- 🔭 Currently working on **[Your Project]**<br>- 🌱 Learning **[Technology/Language]**<br>- 🧩 I love solving complex problems and exploring new tech<br>- 🎮 In my free time, I enjoy gaming and coding challenges</p>
+<p align="left">I'm a passionate developer 💻<br><br>- 🔭 Currently am a master degre student**<br>- 🌱 🧩 I love solving complex problems and exploring new tech<br>- 🎮 In my free time, I enjoy gaming and coding challenges</p>
 
 ###
 
@@ -66,8 +66,8 @@
 ###
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gruvbox&hide_border=true" height="180" alt="GitHub stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=gruvbox&hide_border=true" height="180" alt="GitHub streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=khedirwassim&show_icons=true&theme=gruvbox&hide_border=true" height="180" alt="GitHub stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=khedirwassim&theme=gruvbox&hide_border=true" height="180" alt="GitHub streak" />
 </div>
 
 ###
@@ -77,7 +77,7 @@
 ###
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=gruvbox&hide_border=true" height="150" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khedirwassim&layout=compact&theme=gruvbox&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
 ###
@@ -87,4 +87,3 @@
 ###
 
 <p align="left">Did you know? I started coding when I was [age] and my first project was a simple **[your first project]**. Now, I enjoy building full-stack applications and exploring AI technologies.</p>
-
