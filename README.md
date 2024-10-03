@@ -78,7 +78,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
     <img width="12" />
     <!-- GitHub -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="background-color:white; border-radius: 5px;" height="40" alt="github logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" style="background-color:white; padding:5px; border-radius: 5px;" height="40" alt="github logo" />
 </div>
 
 ###
