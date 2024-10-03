@@ -8,12 +8,6 @@
     <a href="https://www.linkedin.com/in/khedirwassim"> 
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="linkedin logo" />
     </a>
-    <a href="https://twitter.com/khedirwassim">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30" alt="twitter logo" />
-    </a>
-    <a href="https://www.youtube.com/c/khedirwassim">
-        <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30" alt="youtube logo" />
-    </a>
     <a href="mailto:khedirwassim@example.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="email logo" />
     </a>
@@ -27,7 +21,7 @@
 
 ###
 
-<h1 align="center">HellO, WorlD! 👋</h1>
+<h1 align="center">Hello, World! 👋</h1>
 
 ###
 
@@ -35,7 +29,7 @@
 
 ###
 
-<p align="left">I'm a passionate developer 💻<br><br>- 🔭 Currently am a master degre student**<br>- 🌱 🧩 I love solving complex problems and exploring new tech<br>- 🎮 In my free time, I enjoy gaming and coding challenges</p>
+<p align="left">I'm a passionate computer science student 💻<br><br>- 🔭 Currently am a master degre student**<br>- 🌱 🧩 I love devloping new thinks ,solving complex problems and exploring new tech<br>- 🎮 In my free time, I practice sport and i enjoy coding challenges</p>
 
 ###
 
@@ -44,19 +38,47 @@
 ###
 
 <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+    <!-- Java -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
     <img width="12" />
+    <!-- Dart -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
+    <img width="12" />
+    <!-- Android Studio -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="android studio logo" />
+    <img width="12" />
+    <!-- Flutter -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
+    <img width="12" />
+    <!-- PHP -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+    <img width="12" />
+    <!-- JavaScript -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+    <!-- HTML -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo" />
+    <!-- CSS -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo" />
+    <!-- C -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo" />
+    <!-- SQL -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" height="40" alt="heroku logo" />
+    <!-- Python -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+    <img width="12" />
+    <!-- Firebase -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
+    <img width="12" />
+    <!-- Git -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+    <img width="12" />
+    <!-- GitHub -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
 </div>
 
 ###
