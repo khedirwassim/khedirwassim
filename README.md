@@ -32,7 +32,7 @@
 <p align="left"><p>Je suis un étudiant passionné en informatique 💻</p>
 
 <ul>
-  <li>🔭 Actuellement étudiant en master</li>
+  <li>🔭 Actuellement étudiant en master 2 Informatique et Mobilité A l'UHA</li>
   <li>🌱 🧩 J'aime développer de nouvelles idées, résoudre des problèmes complexes et explorer les nouvelles technologies</li>
   <li>🎮 Pendant mon temps libre, je pratique du sport et je prends plaisir à relever des défis de codage</li>
 </ul>
