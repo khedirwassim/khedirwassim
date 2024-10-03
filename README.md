@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">Bonjour, tout le monde ! 👋</h1>
+<h1 align="center">Hello World ! 👋</h1>
 
 ###
 
